@@ -1,0 +1,6 @@
+sayi1 = int(input("Bir sayı girin: "))
+sayi2 = int(input("Bir sayı daha girin: "))
+print("Girdiğiniz sayıların toplamı: ", end="")
+print(sayi1 + sayi2)
+print("Girdiğiniz sayıların farkı: ", end="")
+print(sayi1 - sayi2)
